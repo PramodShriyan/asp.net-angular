@@ -1,0 +1,5 @@
+Create asp.net empty application
+Add package.json,src(full folder),tslint.json,bs-config.json to project from angular apps
+restore package.json ..
+add shared.layout/hdr.component.html/.ts and foot.cmpmt.html/.ts
+create routing module 
